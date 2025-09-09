@@ -118,16 +118,16 @@ eas build --platform ios
 ## 📱 แสดงผลลัพธ์หน้าจอ
 
 ### หน้าจอกล้อง
-![Camera Screen](./1.jpeg)
+<img src="./1.jpeg" alt="Camera Screen" width="300"/>
 
 ### หน้าจอตัวอย่างรูป
-![Preview Screen](./2.jpeg)
+<img src="./2.jpeg" alt="Preview Screen" width="300"/>
 
 ### ปุ่มควบคุม
-![Controls](./3.jpeg)
+<img src="./3.jpeg" alt="Controls" width="300"/>
 
 ### การบันทึกลงอัลบั้ม
-![Save to Album](./4.jpeg)
+<img src="./4.jpeg" alt="Save to Album" width="300"/>
 
 ### ตัวอย่างรูปถ่าย
 ![Sample Photo](./5.jpeg)
