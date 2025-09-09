@@ -115,7 +115,6 @@ eas build --platform ios
 
 
 ## แสดงผลลัพธ์หน้าจอ
-## 📱 แสดงผลลัพธ์หน้าจอ
 
 ### หน้าจอกล้อง
 <img src="./1.jpeg" alt="Camera Screen" width="300"/>
